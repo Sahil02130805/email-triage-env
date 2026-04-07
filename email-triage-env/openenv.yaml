@@ -1,0 +1,3 @@
+name: email-triage
+version: 1.0
+entrypoint: env.environment:EmailTriageEnv
